@@ -2,10 +2,6 @@
 # work with groups and Gabe
 #jobhunter Assignment
 #Abdu Mohammed
-
-
-
-
 import mysql.connector
 import sys
 import json
